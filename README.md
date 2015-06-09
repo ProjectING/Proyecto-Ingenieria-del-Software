@@ -19,7 +19,7 @@ lugar donde se está realizando.
     registrar la empresa y luego activar cada cliente que va a tener una extensión.
 
 <h4>HERRAMIENTAS UTILIZADAS</h4>
-<strong><a href="https://developer.android.com/sdk/index.html">Android Studio</a></strong>
-<strong><a href="www.bluestacks.com/download.html">Bluestacks Emulador</a></strong>
-<strong><a href="https://quickblox.com/">QuickBlox ejemplos</a></strong>
+<h5><strong><a href="https://developer.android.com/sdk/index.html">Android Studio</a></strong></h5>
+<h5><strong><a href="www.bluestacks.com/download.html">Bluestacks Emulador</a></strong></h5>
+<h5><strong><a href="https://quickblox.com/">QuickBlox ejemplos</a></strong></h5>
 
