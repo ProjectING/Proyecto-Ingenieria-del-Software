@@ -2,7 +2,7 @@
 Documentos del Proyecto Ingeniería del Software 
 
 Proyecto de Ingenieria del Software 
-Creacion de una APLICACION de Ayuda Empresarial
+<h2>Creacion de una APLICACION de Ayuda Empresarial </h2>
 Se ha observado que dentro de las empresas la comunicación entre los empleados y los jefes es
 muy tardada porque cada vez que el empleado quiere comunicarle algo a su jefe tiene que ir hasta
 su oficina imprimir los documentos como borrador presentarlos y si no está bien replantearlo y
