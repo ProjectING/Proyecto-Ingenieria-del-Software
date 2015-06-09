@@ -1,6 +1,6 @@
 
 
-Proyecto de Ingenieria del Software 
+<h1><strong>Proyecto de Ingenieria del Software </strong></h1>
 <h2>Creacion de una APLICACION de Ayuda Empresarial </h2>
 Se ha observado que dentro de las empresas la comunicación entre los empleados y los jefes es
 muy tardada porque cada vez que el empleado quiere comunicarle algo a su jefe tiene que ir hasta
