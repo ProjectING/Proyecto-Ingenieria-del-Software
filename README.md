@@ -9,8 +9,8 @@ luego volver a realizar el mismo hasta que sea aprobado.
 Algunas empresas cuentan con una planta telefónica donde pueden comunicarse pero se cae a lo
 mismo que si se quieren ver los documentos o se quiere ver lo que se está realizando hay que ir al
 lugar donde se está realizando.
-<h1>-> Solución Propuesta</h1>
-<h3>---> Enfoque para la Administración del proyecto.</h3>
+<h1>Solución Propuesta</h1>
+<h3>Enfoque para la Administración del proyecto.</h3>
 
    <strong> ¿Porque no utilizar toda la tecnología que nos rodea para solucionar este problema?<strong>
     Casi el 95% de las empresas cuentan con una conexión a internet en todas sus oficinas
@@ -23,3 +23,7 @@ lugar donde se está realizando.
 <h5><strong><a href="www.bluestacks.com/download.html">Bluestacks Emulador</a></strong></h5>
 <h5><strong><a href="https://quickblox.com/">QuickBlox ejemplos</a></strong></h5>
 
+<h4>CONTROL Y SEGUIMIENTO</h4>
+<h5><strong><a href="https://trello.com/b/AN3wIsd1/mns-ip">Herramienta SCRUM</a></strong></h5>
+<h5><strong><a href="https://docs.google.com/spreadsheets/d/1JclyDr-fP-XY3Dr0PUaOmLXUje1BGuVbYEjyYENIi18/edit#gid=0">Control de Cambios</a></strong></h5>
+<h5><strong><a href="https://github.com/ProjectING/Proyecto-Ingenieria-del-Software.git">Uso de Repositorios GitHub</a></strong></h5>
