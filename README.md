@@ -2,6 +2,7 @@
 
 <h1><strong>Proyecto de Ingenieria del Software </strong></h1>
 <h2> APLICACION MNS_IP & MNS_VoIP Empresarial </h2>
+<center><img src="https://www.google.com.gt/search?q=android&biw=1920&bih=979&source=lnms&tbm=isch&sa=X&ei=QC93VaG6NcrLsASWrpDgCA&ved=0CAYQ_AUoAQ#imgrc=esjkVqXhYMBavM%253A%3Bf5t5xeZ0J9fG_M%3Bhttp%253A%252F%252Fcrackberry.com%252Fsites%252Fcrackberry.com%252Ffiles%252Fstyles%252Flarge%252Fpublic%252Ftopic_images%252F2013%252FANDROID.png%253Fitok%253Dxhm7jaxS%3Bhttp%253A%252F%252Fcrackberry.com%252Fandroid%3B800%3B799"></center>
 Se ha observado que dentro de las empresas la comunicación entre los empleados y los jefes es
 muy tardada porque cada vez que el empleado quiere comunicarle algo a su jefe tiene que ir hasta
 su oficina imprimir los documentos como borrador presentarlos y si no está bien replantearlo y
