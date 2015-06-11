@@ -1,6 +1,16 @@
 
 
 <h1><strong>Proyecto de Ingenieria del Software </strong></h1>
+<h4>HERRAMIENTAS UTILIZADAS</h4>
+<h5><strong><a href="https://developer.android.com/sdk/index.html">Android Studio</a></strong></h5>
+<h5><strong><a href="www.bluestacks.com/download.html">Bluestacks Emulador</a></strong></h5>
+<h5><strong><a href="https://quickblox.com/">QuickBlox ejemplos</a></strong></h5>
+
+<h4>CONTROL Y SEGUIMIENTO</h4>
+<h5><strong><a href="https://trello.com/b/AN3wIsd1/mns-ip">Herramienta SCRUM</a></strong></h5>
+<h5><strong><a href="https://docs.google.com/spreadsheets/d/1JclyDr-fP-XY3Dr0PUaOmLXUje1BGuVbYEjyYENIi18/edit#gid=0">Control de Cambios</a></strong></h5>
+<h5><strong><a href="https://github.com/ProjectING/Proyecto-Ingenieria-del-Software.git">Uso de Repositorios GitHub</a></strong></h5>
+
 <h2> APLICACION MNS_IP-Llamadas & MNS_IP-Mensajes Empresarial </h2>
 
 Se ha observado que dentro de las empresas la comunicación entre los empleados y los jefes es
@@ -19,12 +29,4 @@ lugar donde se está realizando.
     video, documentos, videoconferencias y texto pero en un ambiente privado donde sea obligatorio
     registrar la empresa y luego activar cada cliente que va a tener una extensión.
 
-<h4>HERRAMIENTAS UTILIZADAS</h4>
-<h5><strong><a href="https://developer.android.com/sdk/index.html">Android Studio</a></strong></h5>
-<h5><strong><a href="www.bluestacks.com/download.html">Bluestacks Emulador</a></strong></h5>
-<h5><strong><a href="https://quickblox.com/">QuickBlox ejemplos</a></strong></h5>
 
-<h4>CONTROL Y SEGUIMIENTO</h4>
-<h5><strong><a href="https://trello.com/b/AN3wIsd1/mns-ip">Herramienta SCRUM</a></strong></h5>
-<h5><strong><a href="https://docs.google.com/spreadsheets/d/1JclyDr-fP-XY3Dr0PUaOmLXUje1BGuVbYEjyYENIi18/edit#gid=0">Control de Cambios</a></strong></h5>
-<h5><strong><a href="https://github.com/ProjectING/Proyecto-Ingenieria-del-Software.git">Uso de Repositorios GitHub</a></strong></h5>
